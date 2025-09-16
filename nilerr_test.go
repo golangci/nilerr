@@ -3,7 +3,7 @@ package nilerr_test
 import (
 	"testing"
 
-	"github.com/gostaticanalysis/nilerr"
+	"github.com/golangci/nilerr"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

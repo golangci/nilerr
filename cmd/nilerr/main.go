@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gostaticanalysis/nilerr"
+	"github.com/golangci/nilerr"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 

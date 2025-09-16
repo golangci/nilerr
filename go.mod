@@ -1,4 +1,4 @@
-module github.com/gostaticanalysis/nilerr
+module github.com/golangci/nilerr
 
 go 1.24.0
 
